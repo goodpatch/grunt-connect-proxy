@@ -4,7 +4,7 @@ We would like to use this [commit](https://github.com/drewzboto/grunt-connect-pr
 
 # When can GoodPatch stop maintain this patch?
 
-When [this](https://github.com/goodpatch/prott-webapp/issues/2329) is no longer an issue, or when we've stopped using Grunt.
+Refer to [this](https://goodpatch.esa.io/posts/23452)
 
 ### === original `README.md` below ===
 
