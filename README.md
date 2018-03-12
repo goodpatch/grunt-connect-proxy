@@ -1,3 +1,13 @@
+# Why is there a GoodPatch fork of this module?
+
+We would like to use this [commit](https://github.com/drewzboto/grunt-connect-proxy/pull/104) that fixes the `Proxy error: ECONNRESET` error. As the library seems to be unmaintained and possibly abandoned, we decided to fork it in the case it ever disappears.
+
+# When can GoodPatch stop maintain this patch?
+
+When [this](https://github.com/goodpatch/prott-webapp/issues/2329) is no longer an issue, or when we've stopped using Grunt.
+
+### === original `README.md` below ===
+
 # grunt-connect-proxy
 
 > Provides a http proxy as middleware for the grunt-contrib-connect plugin.
